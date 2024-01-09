@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714779068412",
+    "project_id": "ept-new-16a0b",
+    "storage_bucket": "ept-new-16a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714779068412:android:fc7ceec6191c855e869479",
+        "android_client_info": {
+          "package_name": "com.example.ept"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjL3RKk0Csj6V79tt0790z36OlIzm76Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

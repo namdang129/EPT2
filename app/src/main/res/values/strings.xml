@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EPT</string>
+    <string name="Sign_In">Đăng nhập</string>
+    <string name="email">Tài khoản</string>
+    <string name="passSignIn">Mật Khẩu</string>
+    <string name="Remember">Nhớ mật khẩu</string>
+    <string name="ForgotPassword">Quên mật khẩu ?</string>
+    <string name="dont_have_Account">Bạn chưa có tài khoản ?</string>
+    <string name="already_have_Account">Bạn đã có tài khoản</string>
+    <string name="Register">Đăng ký</string>
+    <string name="no_data">Chưa đăng nhập</string>
+    <string name="Sign_Out">Đăng Xuất</string>
+    <string name="I_agree">Tôi đồng ý với các điều khoản của nhà phát hành</string>
+    <string name="renew">Nhập lại mật khẩu</string>
+    <string name="passSignup">Tạo mật khẩu</string>
+    <string name="getEmail">Email</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="client_id">714779068412-dij3qqfo55b3v6e9pllsin3uplcejfbv.apps.googleusercontent.com</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
