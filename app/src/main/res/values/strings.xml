@@ -16,11 +16,5 @@
     <string name="getEmail">Email</string>
     <string name="phone">Số điện thoại</string>
     <string name="client_id">714779068412-dij3qqfo55b3v6e9pllsin3uplcejfbv.apps.googleusercontent.com</string>
-    <string-array name="filter_options">
-        <item>Date</item>
-        <item>Running Time</item>
-        <item>Distance</item>
-        <item>Average Speed</item>
-        <item>Calories Burned</item>
-    </string-array>
+
 </resources>
